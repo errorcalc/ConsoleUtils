@@ -1,5 +1,4 @@
 // ErrorSoft 2013
-#include "stdafx.h"
 #include "conio.h"
 #include "windows.h"
 #include "ConsoleUtils.h"
